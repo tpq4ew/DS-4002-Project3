@@ -18,8 +18,9 @@ south_average_admission_rate_by_year.csv
 south_average_tuition_by_year.csv
 
 SCRIPTS FOLDER This folder contains any code used in the project:
+Visualizations_and_Exploration.ipynb: This is the cleaning code that we used to reformat that raw data set downloaded from Mendeley Data. This code also generates the visualizations that we used in our original data understanding phase. 
 
-Project_2_Analysis.ipynb : This is the cleaning code that we used to reformat the raw data set downloaded from the US DOE website. This code also generates the visualizations that we used in our original data understanding phase. After consolidating the code, this also runs the analysis for our project.
+Project 3 Analysis.ipynb : This runs the analysis and the network for our project.
 
 OUTPUT FOLDER This folder contains any visual outputs used for preanalysis and understanding of the data set. Files in this folder are named according to their relevance. 
 
