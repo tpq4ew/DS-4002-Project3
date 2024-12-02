@@ -12,10 +12,8 @@ LICENSE.md : Licensing and copyright reproducibility information
 DATA FOLDER This folder contains all data files, both raw and cleaned, that are used in the project.
 
 These datasets were the final datasets that we used to conduct analysis:
-north_average_admission_rate_by_year.csv
-north_average_tuition_by_year.csv
-south_average_admission_rate_by_year.csv
-south_average_tuition_by_year.csv
+Avocado Ripening Dataset.xlsx 
+Avocado Ripening Dataset.zip
 
 SCRIPTS FOLDER This folder contains any code used in the project:
 Visualizations_and_Exploration.ipynb: This is the cleaning code that we used to reformat that raw data set downloaded from Mendeley Data. This code also generates the visualizations that we used in our original data understanding phase. 
